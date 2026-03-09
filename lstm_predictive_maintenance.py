@@ -177,3 +177,4 @@ plt.tight_layout()
 plt.show()
 
 print("\n✓ Exécution terminée avec succès !")
+
